@@ -1,4 +1,4 @@
-# Quarkus Social
+# Project Quarkus Social
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
