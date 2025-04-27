@@ -1,11 +1,7 @@
 package org.acme.quarkussocial.domain.model;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
-import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;
 import lombok.Data;
-
-import java.util.Objects;
 
 @Entity
 @Data
